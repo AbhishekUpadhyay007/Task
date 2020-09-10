@@ -1,4 +1,4 @@
 # Task
 Movie App
 
-It's simple data fetching app from the server side.
+It's a simple data fetching app from the server side.
